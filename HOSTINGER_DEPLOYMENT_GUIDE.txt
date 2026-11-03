@@ -1,0 +1,30 @@
+========================================================================
+  JIREH GLOBAL FOODS - HOSTINGER DEPLOYMENT GUIDE (EASY 3-STEP SETUP)
+========================================================================
+
+HOW TO DEPLOY TO HOSTINGER IN UNDER 2 MINUTES:
+
+1. LOG IN TO HOSTINGER:
+   - Go to https://hpanel.hostinger.com
+   - Navigate to "Websites" -> Select your domain -> Click "File Manager".
+
+2. OPEN PUBLIC_HTML:
+   - Double-click to open the "public_html" directory.
+   - If there is a default "default.php" or placeholder file, you can delete it.
+
+3. UPLOAD AND EXTRACT:
+   - Click the "Upload" icon (top right in hPanel File Manager).
+   - Select this zip file: "jireh-makhana-hostinger.zip".
+   - Right-click the uploaded zip file and select "Extract".
+   - Extract files directly into "public_html/".
+   - Make sure index.html, assets/, and .htaccess are in the root of public_html!
+
+4. VERIFY:
+   - Visit your domain in your web browser (e.g., https://yourdomain.com).
+   - Your website will immediately load with full high-speed CDN and responsive layout!
+   - Note: The .htaccess file is already included so all links and direct URL reloads work without 404 errors.
+
+========================================================================
+Website: Jireh Global Foods Pvt. Ltd.
+Headquarters: Jireh Bhawan, Gali No. 1, Chandmari, Patna, Bihar, India
+========================================================================
